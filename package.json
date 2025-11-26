@@ -1,0 +1,24 @@
+{
+  "name": "divd-dive-into-core-node-js-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "append-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujoy-dam/Deep-Dive-into-Node.js-core-Modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sujoy-dam/Deep-Dive-into-Node.js-core-Modules/issues"
+  },
+  "homepage": "https://github.com/sujoy-dam/Deep-Dive-into-Node.js-core-Modules#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
